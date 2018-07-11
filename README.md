@@ -19,13 +19,19 @@ For each 2nd type of operation, print two space separated integers, the front st
 Sample Input
 
 5
+
 E 1 1
+
 E 2 1
+
 E 1 2
+
 D
+
 D
 
 Sample Output
 
 1 1
+
 1 2
